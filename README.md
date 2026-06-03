@@ -49,7 +49,7 @@ NFT-MARKETPLACE/
 Clone the repository:
 
 ```bash
-git clone https://github.com/J-satvik/Password-Manager.git
+git clone [https://github.com/J-satvik/Password-Manager.git](https://github.com/J-satvik/NFT-Marketplace.git)
 ```
 
 Move into the project directory:
