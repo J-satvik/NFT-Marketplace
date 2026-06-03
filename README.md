@@ -101,9 +101,7 @@ NEXT_PUBLIC_CONTRACT_ADDRESS=
 PRIVATE_KEY=
 ```
 
-## Screenshots
 
-Add your project screenshots here.
 
 ## Future Improvements
 
